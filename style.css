@@ -1,0 +1,38 @@
+.container {
+    margin-top: 10%;
+    width: 400px;
+    border: 1px solid none;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+.to-do h2{
+    text-align: center;
+    padding: 10px;
+}
+.main input{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.main .btn{
+    width: 360px; 
+}
+ul{
+    margin-top: 20px;
+    width: 360px;
+    border-radius: 10px;
+    background-color:rgb(236, 235, 235);
+}
+ul li{
+    height: 45px;
+    border-radius: 10px;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button1{
+    color: #0D6EFD;
+}
