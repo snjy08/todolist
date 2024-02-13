@@ -23,6 +23,7 @@ ul{
     width: 360px;
     border-radius: 10px;
     background-color:rgb(236, 235, 235);
+    margin-bottom: 10px;
 }
 ul li{
     height: 45px;
@@ -35,4 +36,10 @@ ul li{
 
 button1{
     color: #0D6EFD;
+}
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh
 }
